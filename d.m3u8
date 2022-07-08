@@ -8,9 +8,9 @@ http://111.40.196.9/PLTV/88888888/224/3221225588/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" tvg-id="4" tvg-name="CCTV4" group-title="央视",CCTV-4中文国际
 http://111.20.33.93/PLTV/88888893/224/3221226223/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" tvg-id="5" tvg-name="CCTV5" group-title="央视",CCTV-5体育
-http://111.40.196.9/PLTV/88888888/224/3221225559/index.m3u8
+http://111.40.196.9/PLTV/88888888/224/3221225559/index.m3u8#http://39.134.65.179/PLTV/88888888/224/3221225818/1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" tvg-id="6" tvg-name="CCTV5+" group-title="央视",CCTV-5+体育赛事
-http://111.40.196.9/PLTV/88888888/224/3221225767/index.m3u8
+http://111.40.196.9/PLTV/88888888/224/3221225767/index.m3u8#http://39.134.65.173/PLTV/88888888/224/3221225507/1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" tvg-id="7" tvg-name="CCTV6" group-title="央视",CCTV-6电影
 http://39.134.65.173/PLTV/88888888/224/3221225814/1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" tvg-id="8" tvg-name="CCTV7" group-title="央视",CCTV-7国防军事
@@ -18,7 +18,7 @@ http://39.134.65.179/PLTV/88888888/224/3221225671/1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" tvg-id="9" tvg-name="CCTV8" group-title="央视",CCTV-8电视剧
 http://111.40.196.9/PLTV/88888888/224/3221225592/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" tvg-id="10" tvg-name="CCTV9" group-title="央视",CCTV-9纪录
-http://111.40.196.9/PLTV/88888888/224/3221225502/index.m3u8
+http://111.40.196.9/PLTV/88888888/224/3221225502/index.m3u8#http://39.134.65.179/PLTV/88888888/224/3221225676/1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" tvg-id="11" tvg-name="CCTV10" group-title="央视",CCTV-10科教
 http://39.134.65.179/PLTV/88888888/224/3221225677/1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" tvg-id="12" tvg-name="CCTV11" group-title="央视",CCTV-11戏曲
@@ -28,7 +28,7 @@ http://39.134.65.179/PLTV/88888888/224/3221225669/1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" tvg-id="14" tvg-name="CCTV13" group-title="央视",CCTV-13新闻
 http://39.134.65.141/PLTV/88888888/224/3221225812/1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" tvg-id="15" tvg-name="CCTV14" group-title="央视",CCTV-14少儿
-http://111.40.196.9/PLTV/88888888/224/3221225573/index.m3u8
+http://111.40.196.9/PLTV/88888888/224/3221225573/index.m3u8#http://39.134.65.179/PLTV/88888888/224/3221225674/1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" tvg-id="16" tvg-name="CCTV15" group-title="央视",CCTV-15音乐
 http://39.134.65.181/PLTV/88888888/224/3221225513/1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" tvg-id="7249" tvg-name="CCTV16" group-title="央视",CCTV-16奥林匹克
@@ -48,17 +48,17 @@ http://39.134.65.166/PLTV/88888888/224/3221225509/1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" tvg-id="27" tvg-name="湖南卫视" group-title="卫视",湖南卫视
 http://39.134.65.166/PLTV/88888888/224/3221225506/1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" tvg-id="28" tvg-name="浙江卫视" group-title="卫视",浙江卫视
-http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+http://39.134.65.179/PLTV/88888888/224/3221225514/1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" tvg-id="29" tvg-name="江苏卫视" group-title="卫视",江苏卫视
-http://111.40.196.9/PLTV/88888888/224/3221225517/index.m3u8
+http://111.40.196.9/PLTV/88888888/224/3221225517/index.m3u8#http://39.134.65.175/PLTV/88888888/224/3221225503/1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" tvg-id="30" tvg-name="北京卫视" group-title="卫视",北京卫视
-http://111.40.196.9/PLTV/88888888/224/3221225529/index.m3u8
+http://111.40.196.9/PLTV/88888888/224/3221225529/index.m3u8#http://39.134.65.179/PLTV/88888888/224/3221225678/1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" tvg-id="31" tvg-name="东方卫视" group-title="卫视",东方卫视
-http://111.40.196.9/PLTV/88888888/224/3221225512/index.m3u8
+http://111.40.196.9/PLTV/88888888/224/3221225512/index.m3u8#http://39.134.65.179/PLTV/88888888/224/3221225672/1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" tvg-id="32" tvg-name="安徽卫视" group-title="卫视",安徽卫视
 http://183.207.249.15/PLTV/3/224/3221225634/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" tvg-id="33" tvg-name="广东卫视" group-title="卫视",广东卫视
-http://111.40.196.9/PLTV/88888888/224/3221225508/index.m3u8
+http://111.40.196.9/PLTV/88888888/224/3221225508/index.m3u8#http://39.134.65.173/PLTV/88888888/224/3221225859/1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" tvg-id="34" tvg-name="深圳卫视" group-title="卫视",深圳卫视
 http://111.40.196.9/PLTV/88888888/224/3221225537/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" tvg-id="36" tvg-name="辽宁卫视" group-title="卫视",辽宁卫视
@@ -66,9 +66,9 @@ http://39.136.48.2:8089/ucdn.sd.chinamobile.com/00/SNM/CHANNEL00000326/index.m3u
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" tvg-id="37" tvg-name="旅游卫视" group-title="卫视",海南卫视
 http://111.63.117.13:6060/030000001000/LYWS/LYWS.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" tvg-id="38" tvg-name="山东卫视" group-title="卫视",山东卫视
-http://111.40.196.9/PLTV/88888888/224/3221225545/index.m3u8
+http://111.40.196.9/PLTV/88888888/224/3221225545/index.m3u8#http://39.134.65.183/PLTV/88888888/224/3221225857/1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" tvg-id="39" tvg-name="天津卫视" group-title="卫视",天津卫视
-http://111.40.196.9/PLTV/88888888/224/3221225604/index.m3u8
+http://111.40.196.9/PLTV/88888888/224/3221225604/index.m3u8#http://39.134.65.162/PLTV/88888888/224/3221225665/1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" tvg-id="40" tvg-name="重庆卫视" group-title="卫视",重庆卫视
 http://39.134.65.181/PLTV/88888888/224/3221225873/1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" tvg-id="41" tvg-name="东南卫视" group-title="卫视",东南卫视
@@ -86,13 +86,13 @@ http://111.40.196.9/PLTV/88888888/224/3221225544/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" tvg-id="47" tvg-name="河南卫视" group-title="卫视",河南卫视
 http://111.63.117.13:6060/030000001000/HENAN/HENAN.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" tvg-id="48" tvg-name="湖北卫视" group-title="卫视",湖北卫视
-http://111.40.196.9/PLTV/88888888/224/3221225566/index.m3u8
+http://111.40.196.9/PLTV/88888888/224/3221225566/index.m3u8#http://39.134.65.177/PLTV/88888888/224/3221225871/1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" tvg-id="50" tvg-name="江西卫视" group-title="卫视",江西卫视
-http://111.40.196.9/PLTV/88888888/224/3221225560/index.m3u8
+http://111.40.196.9/PLTV/88888888/224/3221225560/index.m3u8#http://39.135.138.58:18890/PLTV/88888888/224/3221225705/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" tvg-id="51" tvg-name="吉林卫视" group-title="卫视",吉林卫视
 http://39.134.65.177/PLTV/88888888/224/3221225872/1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" tvg-id="52" tvg-name="内蒙古卫视" group-title="卫视",内蒙古卫视
-http://111.40.196.9/PLTV/88888888/224/3221225574/index.m3u8
+http://111.40.196.9/PLTV/88888888/224/3221225574/index.m3u8#http://39.135.138.58:18890/PLTV/88888888/224/3221225667/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" tvg-id="53" tvg-name="宁夏卫视" group-title="卫视",宁夏卫视
 http://39.134.65.164/PLTV/88888888/224/3221225579/1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" tvg-id="54" tvg-name="山西卫视" group-title="卫视",山西卫视
@@ -102,7 +102,7 @@ http://39.135.32.236:6610/PLTV/77777777/224/3221225754/index.m3u8?
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" tvg-id="56" tvg-name="四川卫视" group-title="卫视",四川卫视
 http://ep.b1791.com/php/sctv.php?id=scws
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" tvg-id="57" tvg-name="新疆卫视" group-title="卫视",新疆卫视
-http://111.40.196.9/PLTV/88888888/224/3221225598/index.m3u8
+http://111.40.196.9/PLTV/88888888/224/3221225598/index.m3u8#http://39.135.138.58:18890/PLTV/88888888/224/3221225725/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" tvg-id="58" tvg-name="云南卫视" group-title="卫视",云南卫视
 http://39.135.32.236:6610/PLTV/77777777/224/3221225794/index.m3u8?
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" tvg-id="59" tvg-name="青海卫视" group-title="卫视",青海卫视
