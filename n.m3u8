@@ -48,17 +48,17 @@ http://120.253.104.16:808/hls/153/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png" tvg-id="6557" tvg-name="风云音乐" group-title="央视",CCTV-风云音乐
 http://120.253.104.16:808/hls/156/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" tvg-id="6000" tvg-name="风云足球" group-title="央视",CCTV-风云足球
-http://120.253.104.16:808/hls/148/index.m3u8
+#http://120.253.104.16:808/hls/148/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE13.jpg" tvg-id="6568" tvg-name="高尔夫网球" group-title="央视",CCTV-高尔夫网球
-http://120.253.104.16:808/hls/149/index.m3u8
+#http://120.253.104.16:808/hls/149/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png" tvg-id="6584" tvg-name="央视台球" group-title="央视",CCTV-央视台球
-http://120.253.104.16:808/hls/150/index.m3u8
+#http://120.253.104.16:808/hls/150/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE8.jpg" tvg-id="6563" tvg-name="兵器科技" group-title="央视",CCTV-兵器科技
 http://120.253.104.16:808/hls/147/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" tvg-id="6560" tvg-name="世界地理" group-title="央视",CCTV-世界地理
 http://120.253.104.16:808/hls/151/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png" tvg-id="6564" tvg-name="女性时尚" group-title="央视",CCTV-女性时尚
-http://120.253.104.16:808/hls/152/index.m3u8
+#http://120.253.104.16:808/hls/152/index.m3u8
 #EXTINF:-1 tvg-name="卫生健康" group-title="央视",CCTV-卫生健康
 http://120.253.104.16:808/hls/158/index.m3u8
 #EXTINF:-1 tvg-name="央视文化精品" group-title="央视",CCTV-央视文化精品
