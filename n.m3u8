@@ -121,7 +121,7 @@ http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/32212293
 #EXTINF:-1 tvg-name="央视文化精品" group-title="央视",CCTV-央视文化精品
 #http://120.253.104.16:808/hls/157/index.m3u8
 #EXTINF:-1 tvg-name="电视指南" group-title="央视",CCTV-电视指南
-http://120.253.104.16:808/hls/146/index.m3u8
+#http://120.253.104.16:808/hls/146/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" tvg-id="20" tvg-name="CGTN" group-title="央视",CGTN
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225745/index.m3u8
 #http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228416/01.m3u8?fmt=ts2hls
