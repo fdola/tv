@@ -269,7 +269,7 @@ http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.
 http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8
 #http://71pull.btvcloud.com/brtv2021channel/2021kjchannellive3.m3u8
 
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV影视png" tvg-id="1875" tvg-name="BTV影视" group-title="北京",北京影视
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV影视.png" tvg-id="1875" tvg-name="BTV影视" group-title="北京",北京影视
 http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV财经.png" tvg-id="1876" tvg-name="BTV财经" group-title="北京",北京财经
