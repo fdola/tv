@@ -78,9 +78,9 @@ http://liveop.cctv.cn/hls/4KHD/playlist.m3u8#1080
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" tvg-id="20" tvg-name="CGTN" group-title="央视",CGTN
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225745/index.m3u8#1080
-
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CGTNDoc.png" tvg-id="891" tvg-name="CGTNDocumentary" group-title="央视",CGTN记录
-http://tv.huel.edu.cn/hls/cgtndochd.m3u8#1080
+#http://101.71.255.229:6610/zjhs/2/10001/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#576
+#http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228416/01.m3u8?fmt=ts2hls#576
+#http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228545/01.m3u8?fmt=ts2hls#576
 
 ##############################卫视 720##############################
 
@@ -363,8 +363,7 @@ http://125.40.191.58:9901/tsfile/live/1001_1.m3u8
 #http://39.134.18.68/PLTV/88888888/224/3221232379/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" tvg-id="6241" tvg-name="CHC高清电影" group-title="CHC",CHC高清电影
-http://tv.huel.edu.cn/hls/chchd.m3u8
-#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 #http://39.134.18.68/PLTV/88888888/224/3221232382/index.m3u8
 
 ##############################CBN 1080##############################
