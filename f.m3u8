@@ -25,22 +25,13 @@ https://hkdtmb:hkdtmb@cdn.hklive.tv/xxxx2/96/index.m3u8
 http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
 #https://hkdtmb:hkdtmb@cdn.hklive.tv/xxxx2/31/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://live.hkanime.com.hk/png_logo/31.png" tvg-id="31" tvg-name="港台電視311" group-title="港澳台",港台电视311
-https://hkdtmb:hkdtmb@cdn.hklive.tv/xxxx2/31/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://live.hkanime.com.hk/png_logo/32.png" tvg-id="32" tvg-name="港台電視32" group-title="港澳台",港台电视32
 http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_2052_av-b.m3u8
 #https://hkdtmb:hkdtmb@cdn.hklive.tv/xxxx2/32/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://live.hkanime.com.hk/png_logo/32.png" tvg-id="32" tvg-name="港台電視322" group-title="港澳台",港台电视322
-https://hkdtmb:hkdtmb@cdn.hklive.tv/xxxx2/32/index.m3u8
-
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" tvg-id="7118" tvg-name="香港开电视" group-title="港澳台",香港开电视
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 #https://hkdtmb:hkdtmb@cdn.cdn.hklive.tv/xxxx/77/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" tvg-id="7118" tvg-name="香港开电视2" group-title="港澳台",香港开电视2
-https://hkdtmb:hkdtmb@cdn.cdn.hklive.tv/xxxx/77/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hkguojicaijing.png" tvg-id="7117" tvg-name="香港国际财经台" group-title="港澳台",香港国际财经台
 https://hkdtmb:hkdtmb@cdn.hklive.tv/xxxx2/76/index.m3u8
