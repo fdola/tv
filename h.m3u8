@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml,https://live.hkanime.com.hk/epg"
+#EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"
 
 ##############################央视 1080##############################
 
@@ -400,8 +400,7 @@ http://61.219.170.95:18543/.m3u8
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv040&nid=4#720
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" tvg-id="6030" tvg-name="华视" group-title="港澳台",华视
-https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctsshow.m3u8
-#http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv041&nid=6#720
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv041&nid=6#720
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/民视.png" tvg-id="7135" tvg-name="民视" group-title="港澳台",民视
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv002&nid=3#720
