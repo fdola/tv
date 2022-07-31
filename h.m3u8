@@ -343,33 +343,33 @@ http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8
 ##############################港澳台##############################
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" tvg-id="126" tvg-name="翡翠台" group-title="港澳台",翡翠台
-https://hkdtmb:hkdtmb@cdn.hklive.tv/xxxx2/81/index.m3u8
+#https://hkdtmb:hkdtmb@cdn.hklive.tv/xxxx2/81/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" tvg-id="126" tvg-name="翡翠台" group-title="港澳台",翡翠台 (中英字幕)
 #https://hkdtmb:hkdtmb@cdn.hklive.tv/xxxx2/81b/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" tvg-id="127" tvg-name="明珠台" group-title="港澳台",明珠台
-https://hkdtmb:hkdtmb@cdn.hklive.tv/xxxx2/84/index.m3u8
+#https://hkdtmb:hkdtmb@cdn.hklive.tv/xxxx2/84/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" tvg-id="127" tvg-name="明珠台" group-title="港澳台",明珠台 (粵語聲道)
 #https://hkdtmb:hkdtmb@cdn.hklive.tv/xxxx2/84b/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" tvg-id="416" tvg-name="J2" group-title="港澳台",J2台
-https://hkdtmb:hkdtmb@cdn.hklive.tv/xxxx2/82/index.m3u8
+#https://hkdtmb:hkdtmb@cdn.hklive.tv/xxxx2/82/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" tvg-id="408" tvg-name="ViuTV" group-title="港澳台",ViuTV
-https://hkdtmb:hkdtmb@cdn.hklive.tv/xxxx2/99/index.m3u8
+#https://hkdtmb:hkdtmb@cdn.hklive.tv/xxxx2/99/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://live.hkanime.com.hk/png_logo/96.png" tvg-name="ViuTV Six" group-title="港澳台",ViuTVSix
-https://hkdtmb:hkdtmb@cdn.hklive.tv/xxxx2/96/index.m3u8
+#https://hkdtmb:hkdtmb@cdn.hklive.tv/xxxx2/96/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://live.hkanime.com.hk/png_logo/31.png" tvg-name="港台電視31" group-title="港澳台",港台电视31
-https://hkdtmb:hkdtmb@cdn.hklive.tv/xxxx2/31/index.m3u8
-#http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
+http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
+#https://hkdtmb:hkdtmb@cdn.hklive.tv/xxxx2/31/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://live.hkanime.com.hk/png_logo/32.png" tvg-name="港台電視32" group-title="港澳台",港台电视32
-https://hkdtmb:hkdtmb@cdn.hklive.tv/xxxx2/32/index.m3u8
-#http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_2052_av-b.m3u8
+http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_2052_av-b.m3u8
+#https://hkdtmb:hkdtmb@cdn.hklive.tv/xxxx2/32/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png" tvg-id="412" tvg-name="香港卫视" group-title="港澳台",香港卫视
 #http://zhibo.hkstv.tv/livestream/mutfysrq.flv#576
@@ -379,7 +379,7 @@ http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 #https://hkdtmb:hkdtmb@cdn.cdn.hklive.tv/xxxx/77/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hkguojicaijing.png" tvg-id="7117" tvg-name="香港国际财经台" group-title="港澳台",香港国际财经台
-https://hkdtmb:hkdtmb@cdn.hklive.tv/xxxx2/76/index.m3u8
+#https://hkdtmb:hkdtmb@cdn.hklive.tv/xxxx2/76/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" tvg-id="7122" tvg-name="有线新闻台" group-title="港澳台",有线新闻台
 https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8
@@ -388,10 +388,10 @@ https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8
 https://uc6.i-cable.com/live_freedirect/freehd208_h.live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://live.hkanime.com.hk/png_logo/83.png" tvg-id="130" tvg-name="无线新闻" group-title="港澳台",无线新闻台
-https://hkdtmb:hkdtmb@cdn.hklive.tv/xxxx2/83/index.m3u8
+#https://hkdtmb:hkdtmb@cdn.hklive.tv/xxxx2/83/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://live.hkanime.com.hk/png_logo/85.png" tvg-id="133" tvg-name="无线财经" group-title="港澳台",无线财经资讯台
-https://hkdtmb:hkdtmb@cdn.hklive.tv/xxxx2/85/index.m3u8
+#https://hkdtmb:hkdtmb@cdn.hklive.tv/xxxx2/85/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视.png" tvg-id="6026" tvg-name="台视" group-title="港澳台",台视
 http://61.219.170.95:18543/.m3u8
